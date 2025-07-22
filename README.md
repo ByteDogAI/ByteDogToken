@@ -5,10 +5,13 @@ Welcome to the official GitHub repository for <b>BYTE</b>, the community-owned m
 <br>
 <b>About BYTE:</b>
 
-BYTE is a fun, decentralized ERC-20 token on Ethereum, designed to bridge AI enthusiasm with crypto. As a fully community-driven project:
+BYTE is a fun, decentralized ERC-20 token on Ethereum, designed to bridge AI enthusiasm with crypto. 
 
-Zero taxes for seamless trading.
-Burned liquidity and renounced contract ownership for true decentralization.
+As a fully community-driven project:
+
+- Zero taxes for seamless trading.
+
+- Burned liquidity and renounced contract ownership for true decentralization.
 
 Interact with the real 'Byte' AI dog on Grok by saying: "Woof, let me talk to Byte the AI dog" in any conversation. BYTE captures that spirit, offering a playful entry into AI adoption in the crypto space. With surging momentum from recent mentions, BYTE is poised for growth!
 
