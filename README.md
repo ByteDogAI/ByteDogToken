@@ -17,8 +17,11 @@ Interact with the real 'Byte' AI dog on Grok by saying: "Woof, let me talk to By
 Key Details
 
 Token Ticker: BYTE
+
 Supply: 964,467,033,476 BYTE
+
 Contract Address: 0xde342a3e269056fc3305f9e315f4c40d917ba521
+
 Source Code: Verified on Etherscan and available in this repo (see Byte.sol).
 
 
