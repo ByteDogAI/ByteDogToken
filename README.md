@@ -3,7 +3,7 @@ Welcome to the official GitHub repository for BYTE, the community-owned memecoin
 
 
 
-About BYTE
+About BYTE:
 
 BYTE is a fun, decentralized ERC-20 token on Ethereum, designed to bridge AI enthusiasm with crypto. As a fully community-driven project:
 
@@ -14,7 +14,7 @@ Interact with the real 'Byte' AI dog on Grok by saying: "Woof, let me talk to By
 
 
 
-Key Details
+Key Details:
 
 Token Ticker: BYTE
 
@@ -26,7 +26,7 @@ Source Code: Verified on Etherscan and available in this repo (see Byte.sol).
 
 
 
-Resources
+Resources:
 
 Website: https://bytedog.ai
 
@@ -46,7 +46,7 @@ CoinGecko: BYTE on CoinGecko https://www.coingecko.com/en/coins/byte
 
 
 
-Getting Involved
+Getting Involved:
 
 This repo hosts the verified smart contract source code for transparency. BYTE is community-owned, so join the conversation on X or Telegram to contribute ideas, memes, or support!
 
