@@ -27,7 +27,7 @@ Resources
 
 Website: https://bytedog.ai
 
-X (Twitter): @ByteDogToken (https://x.com/ByteDogToken
+X (Twitter): @ByteDogToken https://x.com/ByteDogToken
 
 Telegram: https://t.me/Byte_ERC20
 
